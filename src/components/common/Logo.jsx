@@ -7,7 +7,7 @@ const Logo = () => {
   return (
     <Link to="/" style={{ textDecoration: "none", color: "inherit" }}>
       <Typography fontWeight="700" fontSize="1.7rem">
-        Fl<span style={{ color: theme.palette.primary.main }}>ix</span>r
+        Cine<span style={{ color: theme.palette.primary.main }}>Vis</span>ta
       </Typography>
     </Link>
   );
